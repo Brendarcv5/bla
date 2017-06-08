@@ -12,9 +12,8 @@ Versión: Node.js  `v6.11.0` *LTS*  *(con **npm** `3.10.10` incluido)*, para 	el
 
 >**Instalación**
 >
-> <i class="icon-folder-open"></i> Ejecutar ` node-v6.11.0-x64.msi`
+> - *Ejecutar* ` node-v6.11.0-x64.msi`
 ----------
-
 
 
 
