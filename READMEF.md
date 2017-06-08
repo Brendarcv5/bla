@@ -84,7 +84,22 @@ observatorio/
 Lo que se necesita para ejecutar está app:
 * `node` y `npm`
 * Asegúrese de que está ejecutando la última versione de Node `v4.x.x`+ (or `v5.x.x`) y NPM `3.x.x`+
->Si tiene `nvm` instalado, lo que es muy recomendable (` brew install nvm`) puede hacer un `nvm install --lts && nvm use` en `$` para ejecutar el último Node LTS.
+>Si tiene `nvm` instalado, lo que es recomendable (` brew install nvm`) es hacer un `nvm install --lts && nvm use` en `$` para ejecutar el último Node LTS.
+
+## Editor Recomendado
+
+* Se recomienda descargar de [Sublime Text](https://www.sublimetext.com/3) 
+
+	Versión: Sublime Text 3
+    
+***Instalación***
+- *Ejecutar* `Sublime Text Build 3126 x64 Setup.exe`
+- *Instalar* el plugin de **TypeScript**
+	* Abrir **Sublime Text**
+	* Ir a la pestaña *Preferences*
+	* Seleccionar la opción *Package Control*
+	* Ingresar Install Package
+	* Ingresar ***TypeScript*** y dar clic
  
 
 ## Instalación
@@ -118,3 +133,4 @@ npm run watch
 
 # Configuración
 Los archivos de configuración se están en `config/`. Actualmente estamos usando webpack.
+
