@@ -17,19 +17,19 @@ En caso de no tener Node, descargar de [Node Js](https://nodejs.org/es/download/
 
 Versión Recomenda: Node.js  `v6.11.0` *LTS*  *(con **npm** `3.10.10` incluido)*, para 	el correcto funcionamiento.
 
->**Instalación**
-	> - *Ejecutar* ` node-v6.11.0-x64.msi`
+***Instalación***
+	
+ - *Ejecutar* ` node-v6.11.0-x64.msi`
 
 ```bash
-# cambiar de directorio a nuestro repo 
-cd observatorio-front
+# change directory to our repo
+cd observatorio-front/angular2
 
-# instalar el repo con npm
+# install the repo with npm
 npm install
 
-# iniciar el servidor
+# start the server
 npm start
-
 ```
 Ir [http://0.0.0.0:3000](http://0.0.0.0:3000) ó [http://localhost:3000](http://localhost:3000) en el navegador.
 
@@ -118,4 +118,3 @@ npm run watch
 
 # Configuración
 Los archivos de configuración se están en `config/`. Actualmente estamos usando webpack.
-
