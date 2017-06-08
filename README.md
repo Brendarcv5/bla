@@ -20,18 +20,18 @@
 Versión: IntelliJ IDEA  `v.2017.1.4` *Ultimate*
 
 > **Requermientos del Sistema:**
->
->* **Microsoft Windows** `10/8/7/Vista/2003/XP` *(incl.64-bit)*
->* **1 GB** *RAM*  mínimo, **2 GB** *RAM* recomendado
->* **300 MB** espacio en disco duro+ al menos **1 GB** para caches
->* **1024x768** Resolución mínima de pantalla
-
+```
+* **Microsoft Windows** `10/8/7/Vista/2003/XP` *(incl.64-bit)*
+* **1 GB** *RAM*  mínimo, **2 GB** *RAM* recomendado
+* **300 MB** espacio en disco duro+ al menos **1 GB** para caches
+* **1024x768** Resolución mínima de pantalla
+```
 
 
 >**Instalación**
->
-> - Ejecutar ` idea-2017.1.4.exe`
 
+``` - Ejecutar ` idea-2017.1.4.exe`
+```
 
 
 
