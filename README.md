@@ -2,7 +2,6 @@
 # Requerimientos de Instalación
 
 
-
 ## Tabla de Contenido
 
 * [IntelliJ IDEA](#intellij-idea)
@@ -15,35 +14,33 @@
  
 
 ## IntelliJ IDEA
-- Descargar de [JetBrains](https://www.jetbrains.com/idea/download/#section=windows) 
+Descargar de [JetBrains](https://www.jetbrains.com/idea/download/#section=windows) 
 
 Versión: IntelliJ IDEA  `v.2017.1.4` *Ultimate*
 
 > **Requermientos del Sistema:**
-```
-* **Microsoft Windows** `10/8/7/Vista/2003/XP` *(incl.64-bit)*
-* **1 GB** *RAM*  mínimo, **2 GB** *RAM* recomendado
-* **300 MB** espacio en disco duro+ al menos **1 GB** para caches
-* **1024x768** Resolución mínima de pantalla
-```
+>
+>* **Microsoft Windows** `10/8/7/Vista/2003/XP` *(incl.64-bit)*
+>* **1 GB** *RAM*  mínimo, **2 GB** *RAM* recomendado
+>* **300 MB** espacio en disco duro+ al menos **1 GB** para caches
+>* **1024x768** Resolución mínima de pantalla
+
 
 
 >**Instalación**
-
-``` - Ejecutar ` idea-2017.1.4.exe`
-```
+>
+> Ejecutar ` idea-2017.1.4.exe`
 
 
 
 ## Postgresql
-- Descargar de [Postgresql](https://www.postgresql.org/download/) con **PgAdmin**
+Descargar de [Postgresql](https://www.postgresql.org/download/) con **PgAdmin**
 
 Versión: ` Postgresql 9.6`
 
 >**Instalación**
 >
->- Ejecutar `postgresql-9.6.3-1-windows-x64.exe` 
-
+> Ejecutar `postgresql-9.6.3-1-windows-x64.exe` 
 
 
 ## Maven
