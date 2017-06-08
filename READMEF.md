@@ -1,6 +1,6 @@
 # Requerimientos de Instalación
 
-----------
+
 
 ## Node JS
 Descargar de [Node Js](https://nodejs.org/es/download/) 
